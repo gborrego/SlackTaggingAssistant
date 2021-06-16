@@ -1,0 +1,8 @@
+{
+    "PORT": 3000,
+    "TOKEN": "xoxp-531716257568-533374517428-534966176976-face5452debb39e32438a3e36b49bc8d",
+    "Client_id": "531716257568.534963744160",
+    "Scopes": "im:write,chat:write:user,im:read",
+    "tagsurl": "http://43046982.ngrok.io/api/allTags",
+    "serverurl": "http://198.101.238.125:5000"
+}
